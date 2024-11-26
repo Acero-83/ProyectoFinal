@@ -56,6 +56,6 @@ public class Menu1Puesto {
                     System.out.println("Opcion no valida, intentelo denuevo");
                     break;
             }
-        } while (option != 3);
+        } while (option != 4);
     }
 }
